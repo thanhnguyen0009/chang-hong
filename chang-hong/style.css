@@ -489,9 +489,9 @@
 }
 
 .btn-box {
-    width: 180px;
+    width: 200px;
     font-family: var(--font-gotham);
-    font-size: .5em;
+    font-size: .55em;
     color: #4F5638;
     border: 2px solid #4F5638;
     padding: 4px 10px;
@@ -503,7 +503,6 @@
     display: inline-block;
     animation: bubbleZoom 1.7s ease-in-out infinite;
 }
-
 
 .btn-box:hover {
     transform: scale(1.1);
