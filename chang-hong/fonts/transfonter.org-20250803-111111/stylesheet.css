@@ -1,0 +1,27 @@
+@font-face {
+    font-family: '1FTV VIP Hertine';
+    src: url('1FTVVIPHertine.woff2') format('woff2'),
+        url('1FTVVIPHertine.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Nexa Rush Script';
+    src: url('SVN-NexaRushScript.woff2') format('woff2'),
+        url('SVN-NexaRushScript.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Snell Roundhand Script';
+    src: url('SVN-SnellRoundhandScript.woff2') format('woff2'),
+        url('SVN-SnellRoundhandScript.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
