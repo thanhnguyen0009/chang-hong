@@ -715,7 +715,7 @@
 }
 
 .lb-car{
-    font-family: var(--font-hetine);
+    font-family: var(--font-aaron);
     font-size: 2em;
     margin-top: 10px;
 }
@@ -736,7 +736,7 @@
 
 h1 {
     font-weight: normal;
-    font-family: var(--font-hetine);
+    font-family: var(--font-aaron);
     font-size: 1.8em;
     margin-top: 40px;
 }
