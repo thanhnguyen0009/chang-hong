@@ -1282,7 +1282,7 @@ input::placeholder, textarea::placeholder{
     font-weight: bold;
     font-size: .8em;
     flex-grow: 1;
-    text-align: center;
+    text-align: left;
 }
 
 .accordion-content {
